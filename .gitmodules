@@ -1,0 +1,12 @@
+[submodule "escher"]
+	path = escher
+	url = https://github.com/thomshouse/escher-core.git
+[submodule "plugins/facebook"]
+	path = plugins/facebook
+	url = https://github.com/thomshouse/escher-plugin-facebook.git
+[submodule "plugins/tinymce"]
+	path = plugins/tinymce
+	url = https://github.com/thomshouse/escher-plugin-tinymce.git
+[submodule "plugins/twitter"]
+	path = plugins/twitter
+	url = https://github.com/thomshouse/escher-plugin-twitter.git
