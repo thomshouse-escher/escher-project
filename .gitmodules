@@ -10,3 +10,6 @@
 [submodule "plugins/twitter"]
 	path = plugins/twitter
 	url = https://github.com/thomshouse/escher-plugin-twitter.git
+[submodule "plugins/google"]
+	path = plugins/google
+	url = https://github.com/thomshouse/escher-plugin-google.git
