@@ -13,3 +13,6 @@
 [submodule "plugins/google"]
 	path = plugins/google
 	url = https://github.com/thomshouse/escher-plugin-google.git
+[submodule "plugins/bootstrap"]
+	path = plugins/bootstrap
+	url = https://github.com/thomshouse/escher-plugin-bootstrap.git
